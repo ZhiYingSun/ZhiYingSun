@@ -3,6 +3,7 @@
   <br><br>
   <samp>
     hi! I'm sophy.
+    currently open to software engineering opportunies~
   </samp>
 </p>
 
