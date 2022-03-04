@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     hi! I am
-    currently open to software engineering opportunies~
+    [always] open to software engineering opportunies~
      <br><br>
     here is my <a href="https://drive.google.com/file/d/1GHvKAjBNhCWSLtFxfU9Iu-tZZVabvdPr/view?usp=sharing">resume</a>, feel free to contact me through email.
   </samp>
