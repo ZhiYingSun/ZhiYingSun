@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     hi! I am
-    open to software engineering opportunies.
+    open to software engineering opportunies in infrastructure, building libaries, cryptography, developer tools!
      <br><br>
     here is my <a href="https://drive.google.com/file/d/1GHvKAjBNhCWSLtFxfU9Iu-tZZVabvdPr/view?usp=sharing">resume</a>, feel free to contact me through email.
   </samp>
